@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm <strong>Sreehary Shyju</strong> 👨‍💻</h1>
 
-<!--
-**sreehary-programer/sreehary-programer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  MERN Stack Developer • PHP Developer • MySQL • Backend Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies I Use:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,mysql,php,git,linux" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sreehary" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sreehary&show_icons=true&theme=tokyonight" height="170" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on: **MERN + PHP Projects**
+- 🎓 BCA Student at Dr APJ ABDUL KALAM COLLEGE OF PROFESSIONAL STUDIES IRITTY
+- 🌱 Learning advanced React, backend APIs, MySQL, and PHP integrations  
+- 💬 Ask me about: MERN Stack, MySQL, PHP, Java, Linux  
+- ⚡ Fun fact: I fix bugs by creating new ones 😄
+
+---
+
+### 📬 Contact Me  
+📧 **sreeharyshyju@gmail.com**  
+🌐 Portfolio (coming soon)
+
