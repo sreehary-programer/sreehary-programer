@@ -22,10 +22,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **MERN + PHP Projects**
+- 🔭 Currently working on: **PHP Projects**
 - 🎓 BCA Student at Dr APJ ABDUL KALAM COLLEGE OF PROFESSIONAL STUDIES IRITTY
 - 🌱 Learning advanced React, backend APIs, MySQL, and PHP integrations  
-- 💬 Ask me about: MERN Stack, MySQL, PHP, Java, Linux  
+- 💬 Ask me about: MySQL, PHP, Java, Linux  
 - ⚡ Fun fact: I fix bugs by creating new ones 😄
 
 ---
