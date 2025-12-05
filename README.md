@@ -8,7 +8,7 @@
 
 ### 🔧 Technologies I Use:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb,mysql,php,git,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,git,linux" />
 </p>
 
 ---
