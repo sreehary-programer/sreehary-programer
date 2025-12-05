@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm <strong>Sreehary Shyju</strong> 👨‍💻</h1>
 
 <p align="center">
-  MERN Stack Developer • PHP Developer • MySQL • Backend Enthusiast
+  PHP Developer • MySQL • Backend Enthusiast
 </p>
 
 ---
