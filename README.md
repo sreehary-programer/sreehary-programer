@@ -1,36 +1,26 @@
-<h1 align="center">Hey, I'm <strong>Sreehary Shyju</strong> 👨‍💻</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Sreehary+Shyju;PHP+Developer+%7C+Backend+Builder;Cyberpunk+Code+Architect" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  PHP Developer • MySQL • Backend Enthusiast
-</p>
-
----
-
-### 🔧 Technologies I Use:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,git,linux" />
-</p>
+<h3 align="center">
+⚡ Building futuristic web experiences with PHP, MySQL & JavaScript ⚡
+</h3>
 
 ---
 
-### 📈 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sreehary-programer" height="170" />
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,linux,vscode" />
 
----
-
-### 🚀 About Me
-- 🔭 Currently working on: **PHP Projects**
-- 🎓 BCA Student at Dr APJ ABDUL KALAM COLLEGE OF PROFESSIONAL STUDIES IRITTY
-- 🌱 Learning advanced React, backend APIs, MySQL, and PHP integrations  
-- 💬 Ask me about: MySQL, PHP, Java, Linux  
-- ⚡ Fun fact: I fix bugs by creating new ones 😄
+</div>
 
 ---
 
-### 📬 Contact Me  
-📧 **sreeharyshyju@gmail.com**  
-🌐 Portfolio https://sreehary-programer.github.io/Portfoilio-Sreehary/
+# 🌌 SYSTEM STATUS
 
+```bash
+> STATUS: ONLINE
+> LOCATION: KERALA, INDIA
+> ROLE: FULL STACK DEVELOPER
+> FOCUS: WEB APPS + UI SYSTEMS
+> CURRENT MODE: BUILDING
