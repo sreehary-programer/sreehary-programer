@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=SREEHARY%20SHYJU&fontSize=42&fontColor=00F7FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Intern%20%40%20Steyp&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=SREEHARY%20SHYJU&fontSize=42&fontColor=00F7FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;PHP+%7C+.NET+%7C+MySQL+%7C+SQL+Server;Turning+ideas+into+elegant+systems;Currently+interning+%40+Steyp+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;PHP+%7C+.NET+%7C+MySQL+%7C+SQL+Server;Turning+ideas+into+elegant+systems;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,29 +18,29 @@
 $ whoami
 ```
 
-> I'm **Sreehary Shyju**, a passionate **Full Stack Developer** and **BCA student** from Kerala, India,
-> currently growing through a hands-on internship at **Steyp** — where I build real-world web systems,
-> debug production issues, and ship features that matter.
+> I'm **Sreehary Shyju**, a passionate **Full Stack Developer** and **BCA student** from Kannur, Kerala,
+> with a strong foundation in programming, web development, and database management.
+> I love building scalable, efficient applications and am always eager to learn new technologies.
 
-- 🔭 **Currently:** Interning at **Steyp**, working on full-stack web applications
-- 🎓 **Education:** BCA @ Dr. APJ Abdul Kalam College of Professional Studies (Graduating 2026)
-- 💡 **Focus:** Backend architecture, database optimization & clean UI systems
+- 🎓 **Education:** BCA @ Dr. APJ Abdul Kalam College of Professional Studies, Kannur University (Graduating 2026)
+- 💡 **Focus:** Web development, backend systems & database management
 - 🌱 **Exploring:** Advanced .NET, REST API design, and cloud deployment
 - 📜 **Certified:** Artificial Intelligence: Concepts & Techniques — **NPTEL**
 - 📫 **Reach me:** [sreeharyshyju@gmail.com](mailto:sreeharyshyju@gmail.com)
+- 📍 **Location:** Angadikadavu, Kannur, Kerala
 - 🌐 **Portfolio:** [Visit Here](https://sreehary-programer.github.io/Portfoilio-Sreehary/)
 
 ---
 
-## ⚡ KEY ACHIEVEMENTS @ STEYP
+## ⚡ KEY HIGHLIGHTS
 
-| 🏆 Achievement | 💬 Details |
+| 🏆 Highlight | 💬 Details |
 |---|---|
-| 🛠️ **Built production features** | Developed and shipped real features used by actual users in a live environment |
-| 🐛 **Debugging under pressure** | Resolved critical issues in backend logic and database connectivity in production systems |
-| 🔗 **Full stack ownership** | Took end-to-end responsibility — from database schema to UI rendering |
-| 📦 **Collaborative development** | Worked within a team using version control and professional workflows |
-| 🚀 **Rapid tech adaptation** | Onboarded and contributed to unfamiliar codebases within the first week |
+| 🛠️ **Project Builder** | Designed and shipped complete systems — AMS and Online Application Form System |
+| 🐛 **Debugging Mindset** | Skilled at resolving backend logic issues and database connectivity problems |
+| 🔗 **Full Stack Thinking** | End-to-end ownership — from database schema design to UI rendering |
+| 📦 **Multi-language Proficiency** | Comfortable across C, C++, C#, Java, Python, PHP, and JavaScript |
+| 📜 **AI Certified** | Completed NPTEL course covering intelligent agents, search algorithms & machine learning basics |
 
 ---
 
@@ -58,16 +58,16 @@ $ whoami
 ### Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![MudBlazor](https://img.shields.io/badge/MudBlazor-594AE2?style=for-the-badge&logo=blazor&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -76,18 +76,18 @@ $ whoami
 ### 📚 Academic Management System (AMS)
 > A robust system to manage student academic records and results efficiently.
 - **Stack:** ASP.NET · SQL Server
-- ✅ Implemented database connectivity and data retrieval operations
-- ✅ Performed end-to-end testing and debugging
-- ✅ Optimized record handling for performance
+- ✅ Developed a system to manage academic records and results
+- ✅ Performed end-to-end testing and debugging to resolve system issues
+- ✅ Worked on database connectivity and data retrieval operations
 
 ---
 
 ### 📋 Online Application Form System
 > A web-based platform for managing student application data with full validation.
 - **Stack:** PHP · HTML · CSS · MySQL
-- ✅ Designed and implemented client-side + server-side input validation
-- ✅ Ensured secure data storage and retrieval using MySQL
-- ✅ Clean, user-friendly UI for form submission workflows
+- ✅ Designed a web-based application system for handling student data
+- ✅ Implemented validation and resolved user input errors
+- ✅ Ensured proper data storage and retrieval using MySQL
 
 ---
 
@@ -123,7 +123,7 @@ $ whoami
 
 ## 📄 RESUME
 
-> 📎 *Want the full picture?* Check out my [**Resume here**](https://sreehary-programer.github.io/Portfoilio-Sreehary/) for a detailed breakdown of my experience, skills, and projects.
+> 📎 *Want the full picture?* Check out my [**Resume here**](https://sreehary-programer.github.io/Portfoilio-Sreehary/) for a detailed breakdown of my skills and projects.
 
 ---
 
