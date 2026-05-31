@@ -113,7 +113,7 @@ $ whoami
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreehary%20Shyju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreehary-shyju)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreehary%20Shyju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreehary-shyju-75b751347)
 [![Gmail](https://img.shields.io/badge/Gmail-sreeharyshyju%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeharyshyju@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00F7FF?style=for-the-badge&logo=firefox&logoColor=black)](https://sreehary-programer.github.io/Portfoilio-Sreehary/)
 
