@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=SREEHARY%20SHYJU&fontSize=42&fontColor=00F7FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=SREEHARY%20SHYJU&fontSize=42&fontColor=00F7FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BCA%20Graduate&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
 
 </div>
 
@@ -18,11 +18,11 @@
 $ whoami
 ```
 
-> I'm **Sreehary Shyju**, a passionate **Full Stack Developer** and **BCA student** from Kannur, Kerala,
+> I'm **Sreehary Shyju**, a passionate **Full Stack Developer** and **BCA Graduate** from Kannur, Kerala,
 > with a strong foundation in programming, web development, and database management.
 > I love building scalable, efficient applications and am always eager to learn new technologies.
 
-- 🎓 **Education:** BCA @ Dr. APJ Abdul Kalam College of Professional Studies, Kannur University (Graduating 2026)
+- 🎓 **Education:** BCA @ Dr. APJ Abdul Kalam College of Professional Studies, Kannur University
 - 💡 **Focus:** Web development, backend systems & database management
 - 🌱 **Exploring:** Advanced .NET, REST API design, and cloud deployment
 - 📜 **Certified:** Artificial Intelligence: Concepts & Techniques — **NPTEL**
